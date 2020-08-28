@@ -1,0 +1,28 @@
+{
+  "name": "newsweek_clone",
+  "version": "1.0.0",
+  "description": "newsweek.com home page clone for the odin project using bootstrap 4.5.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icepick-pauly/top_htmlcss_newsweekclone.git"
+  },
+  "keywords": [
+    "top",
+    "html",
+    "css",
+    "bootstrap"
+  ],
+  "author": "@icepick-pauly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icepick-pauly/top_htmlcss_newsweekclone/issues"
+  },
+  "homepage": "https://github.com/icepick-pauly/top_htmlcss_newsweekclone#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
